@@ -11,4 +11,4 @@ DataWarrior90/DataWarrior90 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 Still learning
-Day 1
+Day 2
